@@ -69,18 +69,14 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    
-    <p>&nbsp&nbsp&nbspSandra Rojas<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/SandraRojasZ">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-sandra-zegarrundo">LinkedIn</a>
-&nbsp;|&nbsp;
-    </p>
+    &nbsp;&nbsp;&nbsp;Sandra Rojas<br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/SandraRojasZ">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/sandra-zegarrundo">LinkedIn</a>&nbsp;|&nbsp;
 </p>
+
 <br/><br/>
-<p>
+
 
 ---
 
